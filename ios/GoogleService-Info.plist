@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>735004018581-5i08b0bc8eu0u4mrig4chaokce7p39c8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.735004018581-5i08b0bc8eu0u4mrig4chaokce7p39c8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>735004018581-8v1u70tljsjjdeeo14g28d72a21c3c02.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlcde3FHSh43rI1qg9ip9-53oFR86uuNY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>735004018581</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mindiii.gold</string>
+	<key>PROJECT_ID</key>
+	<string>d-de2a6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>d-de2a6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:735004018581:ios:bb4e6decb5630ba806189c</string>
+	<key>DATABASE_URL</key>
+	<string>https://d-de2a6-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

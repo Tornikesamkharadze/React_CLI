@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Asap-Black.ttf",
+      "sha1": "84db100f469cdf265141f29ae26be5748e8fd00b"
+    },
+    {
+      "path": "src/assets/fonts/Asap-BlackItalic.ttf",
+      "sha1": "eb18d34246be2691d636f187261dae963d00d7b3"
+    },
+    {
+      "path": "src/assets/fonts/Asap-Bold.ttf",
+      "sha1": "dce8a177571cc84d89e787f164754daa128c7e4d"
+    },
+    {
+      "path": "src/assets/fonts/Asap-BoldItalic.ttf",
+      "sha1": "5c501fb61819a3eb3fd62bfcc38234c003f88126"
+    },
+    {
+      "path": "src/assets/fonts/Asap-ExtraBold.ttf",
+      "sha1": "c32b1a10c9db01a8bc0e0d7a3ae2a8fb039dfc22"
+    },
+    {
+      "path": "src/assets/fonts/Asap-ExtraBoldItalic.ttf",
+      "sha1": "ca465ac5ebbb65eb1b123899018a8a4b1fe23b9b"
+    },
+    {
+      "path": "src/assets/fonts/Asap-ExtraLight.ttf",
+      "sha1": "d9b826c191f8c23469fdcae3bdec661b17cb5754"
+    },
+    {
+      "path": "src/assets/fonts/Asap-ExtraLightItalic.ttf",
+      "sha1": "4a753cc199d87e6f1f3be49192afba3228cbcc71"
+    },
+    {
+      "path": "src/assets/fonts/Asap-Italic.ttf",
+      "sha1": "d3f2a9d27fe2ea0186560a0819d6de89435b7ab3"
+    },
+    {
+      "path": "src/assets/fonts/Asap-Light.ttf",
+      "sha1": "defb82f3c3e13da04b3348b044df5d0196b84b0e"
+    },
+    {
+      "path": "src/assets/fonts/Asap-LightItalic.ttf",
+      "sha1": "60528341a809fcaf650579cb38593ee2af4f107a"
+    },
+    {
+      "path": "src/assets/fonts/Asap-Medium.ttf",
+      "sha1": "1687fbda8ea6ec7b37b0866b5cc50ac0003e00f2"
+    },
+    {
+      "path": "src/assets/fonts/Asap-MediumItalic.ttf",
+      "sha1": "996d067387317fe462ca2c7b5c892b2b4fa1f0ad"
+    },
+    {
+      "path": "src/assets/fonts/Asap-Regular.ttf",
+      "sha1": "98cd15612950e33851f85d8efeea0c741edfa38d"
+    },
+    {
+      "path": "src/assets/fonts/Asap-SemiBold.ttf",
+      "sha1": "4077819ee3add338d6dc53f0aabc79b27d7b1c35"
+    },
+    {
+      "path": "src/assets/fonts/Asap-SemiBoldItalic.ttf",
+      "sha1": "a1e22092b899e91a34d7fb23b446d2963d609845"
+    },
+    {
+      "path": "src/assets/fonts/Asap-Thin.ttf",
+      "sha1": "45c803858f579dc99d7e4ae6c3e3d554204670aa"
+    },
+    {
+      "path": "src/assets/fonts/Asap-ThinItalic.ttf",
+      "sha1": "b8507fa4e4e3a76765a441f3ebbf1d45cc1e498a"
+    }
+  ]
+}
